@@ -1,0 +1,11 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is AE76-B772
+
+ Directory of C:\Users\velag\OneDrive\Desktop\Myproject
+
+03/05/2026  11:23 AM    <DIR>          .
+03/05/2026  11:13 AM    <DIR>          ..
+03/05/2026  11:19 AM    <DIR>          New folder
+03/05/2026  11:23 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  143,682,973,696 bytes freetescfgfg
